@@ -5,7 +5,7 @@ Technologies I'm comfortable with:
 
 Backend:
 
-LAravel,NodeJS, ExpressJs,Php
+Laravel,NodeJS, ExpressJs,Php
 Database
 
 Mysql, MongoDB, PostgreSQL
